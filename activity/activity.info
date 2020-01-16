@@ -2,6 +2,6 @@
 name = Music blocks
 activity_version = 1
 bundle_id = org.sugarlabs.PyMusicBlocks
-exec = sugar-activity musicblocks.MusicBlocks
+exec = sugar-activity3 musicblocks.MusicBlocks
 icon = activity-icon
 
